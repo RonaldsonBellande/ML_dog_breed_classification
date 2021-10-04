@@ -1,1 +1,1 @@
-Stanfard dog bread dataset
+Stanfard dog breed dataset
